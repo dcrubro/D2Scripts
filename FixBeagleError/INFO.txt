@@ -1,0 +1,6 @@
+"FixBeagleError" does pretty much what it says. 
+Sometimes after a hard crash or other error codes, your AppData directory for Destiny 2 might get corrupted.
+
+This program just patches up the file namings to hopefully allow D2 to run again.
+
+Run the EXE and follow the instructions.
