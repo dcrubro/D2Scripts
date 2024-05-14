@@ -4,3 +4,5 @@ Sometimes after a hard crash or other error codes, your AppData directory for De
 This program just patches up the file namings to hopefully allow D2 to run again.
 
 Run the EXE and follow the instructions.
+
+Please note that depending on your system, it may require some additional DLL's to run correctly, but you can follow a guide online to get the same result.
